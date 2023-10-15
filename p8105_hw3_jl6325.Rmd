@@ -169,7 +169,7 @@ bs |>
 ```
 
 
-Based on the plot above, 2006 and 2010 had relatively similar rating distributions, but 2010 overall contained larger range than 2006.
+Based on the plot above, 2006 and 2010 had relatively similar rating distributions with slightly right skewed normal distribution, but 2010 overall contained larger range than 2006.
 
 
 # Problem 3
